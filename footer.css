@@ -1,0 +1,88 @@
+footer {
+    background: url(../help-mushrooms/психоделика&фоны/background-footer-light-blue.jpg);
+    background-size: cover;
+    height: 250px;
+    margin-top: -50px;
+    background-color: #bbb;
+    text-align: center;
+}
+
+.footer-block {
+    display: flex;
+}
+
+.footer-block_last {
+    color: white;
+}
+
+.footer-column {
+    padding: 0 15px;
+}
+
+.footer-column_left {
+    flex: 1;
+}
+
+.footer-column_right {
+    flex: 1;
+}
+
+.footer-column__header {
+    text-align: left;
+    padding-top: 35px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.footer-column__body {
+    text-align: left;
+    color: white;
+}
+
+.footer-column__body p {
+}
+
+.footer-group-link {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.footer-group-link__item {
+    margin-top: 8px;
+}
+
+.footer-group-link__link {
+    color: #fff;
+    text-decoration: none;
+    outline: 0;
+}
+
+a:hover {
+    text-decoration:none !important;
+    color: #fff !important;
+}
+
+.instagram-feed-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.instagram-feed-list__item {
+    overflow: hidden;
+    width: 25%;
+}
+
+.instagram-feed-list__item img {
+    vertical-align: middle;
+    border-style: none;
+    margin: 5px;
+}
+
+.copyright {
+    margin-left: 85%;
+}
