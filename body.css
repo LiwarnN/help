@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    background-image: url(../ГОСПОДИ\,\ ПОМОГИ\ МНЕ/психоделика&фоны/фон2.jpg);
+    background-size: cover;
+}
+
+.section_main {
+    padding: 120px 0;
+}
+
+.section-text__header {
+    color: white;
+    text-align: center;
+}
+

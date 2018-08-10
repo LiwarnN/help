@@ -1,0 +1,31 @@
+.section_banner {
+    background: url(../ГОСПОДИ\,\ ПОМОГИ\ МНЕ/психоделика&фоны/matrix.png);
+    width: 80%;
+    height: 170px;
+    background-size: 30% auto;
+    margin:0 auto;
+}
+
+.banner-container {
+    display: flex;
+    justify-content: center;
+}
+
+.banner {
+    margin-top: 40px;
+}
+.banner-text__header {
+    color: white;
+    font-size: 48px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.banner-text__body {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.banner-text__body span {
+    color: white;
+}

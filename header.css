@@ -1,0 +1,12 @@
+.nav {
+    background: #27496e;
+    height: 50px;
+}
+
+.pMenu {
+    margin-top: 3%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 3px dashed white;
+    color: #057bff;
+}
